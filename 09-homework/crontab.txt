@@ -1,0 +1,6 @@
+
+0 8 * * * python3 weather_scraper.py
+0 */6 * * * python3 reddit_scraper.py
+
+^G Get Help    ^O Write Out   ^W Where Is    ^K Cut Text    ^J Justify     ^C Cur Pos
+^X Exit        ^R Read File   ^\ Replace     ^U Uncut Text  ^T To Spell    ^_ Go To Line
